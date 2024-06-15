@@ -1,0 +1,1 @@
+$ git add hello_world.txt //將檔案加入暫存區
